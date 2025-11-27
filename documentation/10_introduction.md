@@ -26,11 +26,37 @@ _Figure 1.1 - Super Start FPGA Designer Skills (Composite image. See Image Credi
 
 ## 1.2 What is FPGA
 
-It is the same like ASIC design, just more complicated.
+
+
+An FPGA is a type of integrated circuit that works like a highly flexible version of an ASIC. Unlike a fixed-function ASIC, an FPGA can be programmed and reconfigured to implement different hardware behaviors, which is why it’s often described as a “soft ASIC."
+
+
+
+TODO add picture of flexible ASIC
+
+
+
+
+
+### 1.2.1 FPGA design is essentially the same as ASIC (chip) design, but it is more complex.
+
+In an ASIC project, the work is divided among many specialists: one or more architects, a team of RTL designers to implement and integrate all modules, specialists for timing closure, CDC and formal-verification engineers, a physical design team for layout and tape-out preparation, and a large verification team, often comparable in size to the RTL team, to run full‑chip simulations.
+
+* an FPGA designer == an ASIC team
+
+For an FPGA project, a **single engineer is often expected to cover most of these roles and a few more:** architecture development, RTL design, timing closure, CDC checks, module and chip level simulations, as well as some software development and integration, data‑intensive processing such as DSP or AI, and hardware bring‑up and lab debug. Many tasks may be simpler than in an ASIC flow, but deep specialization is less common; the typical FPGA engineer must be competent across a wide range of technologies and skills. In that sense, being an FPGA designer is  demanding, and it is fair to say that FPGA engineers are among the most competent, skilled and versatile designers in the industry.
+
+
+
+TODO add picture of all skills
 
 
 
 ## 1.3 FPGA Vendors
+
+
+
+
 
 
 

@@ -33,7 +33,7 @@ description: FPGA industry has established good practice
 
 <h4 style="text-align: center;">***</h4>
 
-RCSTAG: FGP04PUBEN25D0503R1AD alpha draft
+RCSTAG: FGP04PUBEN25D0503R1D draft 
 
  Copyright © 2025 Dessislav Valkov
 
